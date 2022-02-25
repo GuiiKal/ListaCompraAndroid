@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListaCompra</string>
+    <string name="text_value1">Quantidade:</string>
+    <string name="text_value2">Total:</string>
+    <string name="button_value1">Nova compra</string>
+    <string-array name="list_value">
+        <item>Arroz</item>
+        <item>Feijão</item>
+        <item>Leite</item>
+        <item>Macarrão</item>
+        <item>Óleo</item>
+        <item>Açúcar</item>
+    </string-array>
+</resources>
